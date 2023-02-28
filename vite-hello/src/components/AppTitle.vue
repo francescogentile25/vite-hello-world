@@ -17,5 +17,6 @@ export default {
 <style>
     h1{
         color: salmon;
+        text-align: center;
     }
 </style>

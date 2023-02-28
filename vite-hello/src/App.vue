@@ -21,8 +21,8 @@ export default{
 
 <template>
   <div>
-    <Jumbotron></Jumbotron>
     <AppTitle></AppTitle>
+    <Jumbotron></Jumbotron>
   </div>
 </template>
 
